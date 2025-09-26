@@ -833,7 +833,7 @@ body.br-mode .task-cell.weekend {
 
 // --- CONFIGURAÇÕES GLOBAIS ---
 let SCRIPT_EDITOR_LINK = 'https://script.google.com/u/0/home/projects/1C9MeJjMHwPNzFNEdUr6zdcTI5PUmR1ze92vwu1tAnQsDjMYjsuzR1mrF/edit';
-const API_KEY = 'AIzaSyDbwuo1lToGI8Wvb1z9PMnCL6LnedcvdyA';
+const API_KEY = '';
 const SHEET_ID = '1lpA82i_X-Wbk-T-hxHBywtYEbzqDP-BYM5LW7qb60MM';
 const SHEET_NAME = 'Principal';
 let RANGE = `${SHEET_NAME}!A:ZZ`;
